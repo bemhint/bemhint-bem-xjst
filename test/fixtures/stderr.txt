@@ -1,0 +1,13 @@
+
+BEM-XJST WARNING:
+>>>> Some error
+>>>> Some/path:100500:500
+>>>>      some text
+>>>>
+
+
+BEM-XJST WARNING:
+>>>> Another error
+>>>> Another/path:4444:55555
+>>>>      another text
+>>>>
